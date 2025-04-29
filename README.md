@@ -1,7 +1,7 @@
 # OBESITY DETECTION MODEL
 ## Steps to follow:
-1. Data Collection
-2. Data Definition
+1. Data Collection - We have collected the data from kaggle "https://www.kaggle.com/datasets/adeniranstephen/obesity-prediction-dataset?".
+2. Data Definition - 
 3. Data Cleaning
 4. Exploratory Data Analysis(EDA)
 5. Feature Engineering 
